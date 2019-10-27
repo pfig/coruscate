@@ -15,4 +15,4 @@ Music for sleeping, most of the time.
 * Made with [Hugo](https://gohugo.io/)
 * Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
 * Deployed to [Netlify](https://www.netlify.com/)
-* Terminal logo by [SVG PORN](https://svgporn.com/)
+* FM algorithm logo by [Mamizou](https://en.wikipedia.org/wiki/User:Mamizou)
