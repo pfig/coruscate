@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on C o r u s c a t e</title>
+    <title>Blog on C o r u s c a t e</title>
     <link>https://coruscate.xyz/post/</link>
-    <description>Recent content in Posts on C o r u s c a t e</description>
+    <description>Recent content in Blog on C o r u s c a t e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 26 Oct 2019 16:20:51 +0100</lastBuildDate>
     
 	<atom:link href="https://coruscate.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>https://coruscate.xyz/hello/</link>
-      <pubDate>Sat, 26 Oct 2019 16:20:51 +0100</pubDate>
+      <title>Booting Up</title>
+      <link>https://coruscate.xyz/booting-up/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://coruscate.xyz/hello/</guid>
-      <description>Hello, world.</description>
+      <guid>https://coruscate.xyz/booting-up/</guid>
+      <description>&lt;p&gt;A few months ago, on the 20th anniversary of the word &amp;ldquo;blog&amp;rdquo;,
+Marc Weidenbaum wrote &lt;a href=&#34;https://disquiet.com/2019/06/16/word-blog-20th-anniversary-1999/&#34;&gt;a post celebrating blogs&lt;/a&gt;,
+and asked his readers to start a blog.&lt;/p&gt;</description>
     </item>
     
   </channel>

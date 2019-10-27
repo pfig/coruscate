@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Hello</title>
-      <link>https://coruscate.xyz/hello/</link>
-      <pubDate>Sat, 26 Oct 2019 16:20:51 +0100</pubDate>
-      
-      <guid>https://coruscate.xyz/hello/</guid>
-      <description>Hello, world.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://coruscate.xyz/about/</link>
       <pubDate>Sat, 26 Oct 2019 16:16:23 +0100</pubDate>
@@ -29,6 +20,17 @@
       <description>I am a Portuguese software developer who started experimenting with noise music a decade ago, currently building a minimalist approach to slow music - layers of piano, tape loops, found noises, and granular synthesis.
 Music for sleeping, most of the time.
 Thank you  Made with Hugo Themed by Cupper Deployed to Netlify FM algorithm logo by Mamizou  Privacy    This is a static website, and it does not collect any personally identifiable data on visitors.</description>
+    </item>
+    
+    <item>
+      <title>Booting Up</title>
+      <link>https://coruscate.xyz/booting-up/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://coruscate.xyz/booting-up/</guid>
+      <description>&lt;p&gt;A few months ago, on the 20th anniversary of the word &amp;ldquo;blog&amp;rdquo;,
+Marc Weidenbaum wrote &lt;a href=&#34;https://disquiet.com/2019/06/16/word-blog-20th-anniversary-1999/&#34;&gt;a post celebrating blogs&lt;/a&gt;,
+and asked his readers to start a blog.&lt;/p&gt;</description>
     </item>
     
   </channel>
