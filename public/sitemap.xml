@@ -3,17 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://coruscate.xyz/about/</loc>
-    <lastmod>2019-10-27T07:13:11+00:00</lastmod>
+    <loc>https://coruscate.xyz/</loc>
+    <lastmod>2019-10-27T07:49:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://coruscate.xyz/</loc>
-    <lastmod>2019-10-27T07:13:11+00:00</lastmod>
+    <loc>https://coruscate.xyz/tags/blog/</loc>
+    <lastmod>2019-10-27T07:54:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coruscate.xyz/hello/</loc>
+    <lastmod>2019-10-27T07:54:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coruscate.xyz/post/</loc>
+    <lastmod>2019-10-27T07:54:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://coruscate.xyz/tags/</loc>
+    <lastmod>2019-10-27T07:54:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coruscate.xyz/about/</loc>
+    <lastmod>2019-10-27T08:10:13+00:00</lastmod>
   </url>
   
 </urlset>
