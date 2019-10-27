@@ -6,9 +6,19 @@
     <description>Recent content in Tags on C o r u s c a t e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Oct 2019 16:20:51 +0100</lastBuildDate>
     
 	<atom:link href="https://coruscate.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>https://coruscate.xyz/tags/blog/</link>
+      <pubDate>Sat, 26 Oct 2019 16:20:51 +0100</pubDate>
+      
+      <guid>https://coruscate.xyz/tags/blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

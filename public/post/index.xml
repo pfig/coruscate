@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on C o r u s c a t e</title>
+    <link>https://coruscate.xyz/post/</link>
+    <description>Recent content in Posts on C o r u s c a t e</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Oct 2019 16:20:51 +0100</lastBuildDate>
+    
+	<atom:link href="https://coruscate.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://coruscate.xyz/hello/</link>
+      <pubDate>Sat, 26 Oct 2019 16:20:51 +0100</pubDate>
+      
+      <guid>https://coruscate.xyz/hello/</guid>
+      <description>Hello, world.</description>
+    </item>
+    
+  </channel>
+</rss>
