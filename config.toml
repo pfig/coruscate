@@ -38,3 +38,18 @@ enableGitInfo = true
     name = "RSS"
     url = "/index.xml"
     weight = 5
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    simple = true
+  [privacy.twitter]
+    enableDNT = true
+    simple = true
+  [privacy.vimeo]
+    simple = true
+  [privacy.youtube]
+    privacyEnhanced = true
