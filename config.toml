@@ -7,6 +7,9 @@ googleAnalytics = ""
 disqusShortname = ""
 enableGitInfo = true
 
+enableRobotsTXT = true
+disableAliases = true
+
 [taxonomies]
   tag = "tags"
 
@@ -24,6 +27,7 @@ enableGitInfo = true
   dateFormat = "Jan 2, 2006"
   codePenUser = ""
   katex = true
+  disallow_search_engines = false
 
 [menu]
   [[menu.nav]]
