@@ -1,9 +1,9 @@
-[submodule "themes/minimal"]
-	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
-[submodule "themes/sam"]
-	path = themes/sam
-	url = https://github.com/victoriadrake/hugo-theme-sam.git
 [submodule "themes/pixyll"]
 	path = themes/pixyll
 	url = https://github.com/azmelanar/hugo-theme-pixyll.git
+[submodule "themes/solar-theme-hugo"]
+	path = themes/solar-theme-hugo
+	url = https://github.com/bake/solar-theme-hugo.git
+[submodule "themes/cupper-hugo-theme"]
+	path = themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
