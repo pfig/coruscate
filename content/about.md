@@ -10,6 +10,19 @@ layers of piano, tape loops, found noises, and granular synthesis.
 
 Music for sleeping, most of the time.
 
+### About the playlist
+
+From their blurb, Buy Music Club is
+
+{{% blockquote %}}
+A website for curating and sharing lists of independent music downloads available on Bandcamp.
+{{% /blockquote %}}
+
+I think these are two excellent ideas: buying more music, and having human
+curated playlists. So I have set up my own little corner on the Buy Music Club
+to do just that. I plan to update it every one or two weeks. There are no
+referral or affiliate links, I do not make any money out of it.
+
 
 ### Thank you
 

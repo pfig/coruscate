@@ -42,6 +42,10 @@ disableAliases = true
     name = "RSS"
     url = "/index.xml"
     weight = 5
+  [[menu.nav]]
+    name = "Playlist"
+    url = "https://buymusic.club/list/pedro-figueiredo-lofi-ambient"
+    weight = 3
 
 [privacy]
   [privacy.disqus]
