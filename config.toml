@@ -33,7 +33,15 @@ disableAliases = true
   [[menu.nav]]
     name = "Blog"
     url = "/post/"
+    weight = 1
+  [[menu.nav]]
+    name = "Music"
+    url = "https://soundcloud.com/everythingdies"
     weight = 2
+  [[menu.nav]]
+    name = "Playlist"
+    url = "https://buymusic.club/list/pedro-figueiredo-lofi-ambient"
+    weight = 3
   [[menu.nav]]
     name = "About"
     url = "/about/"
@@ -42,10 +50,6 @@ disableAliases = true
     name = "RSS"
     url = "/index.xml"
     weight = 5
-  [[menu.nav]]
-    name = "Playlist"
-    url = "https://buymusic.club/list/pedro-figueiredo-lofi-ambient"
-    weight = 3
 
 [privacy]
   [privacy.disqus]
