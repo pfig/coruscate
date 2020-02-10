@@ -15,9 +15,10 @@ As someone told me on Lines, currently it's had 1 listener - if I don't
 release it, then that's all it'll ever get. So I am going to write those liner
 notes, and release it by the end of this month.
 
-In the meantime, today I am releasing another EP.
+In the meantime, today I am releasing another EP (it's also my first release
+under a new project name, Stray wool).
 
-[high-rise]: https://everythingdies.bandcamp.com/album/soundtrack-for-high-rise-luxury-apartment-buildings
+[high-rise]: https://straywool.bandcamp.com/album/soundtrack-for-high-rise-luxury-apartment-buildings
 [soundcloud]: https://soundcloud.com/everythingdies/tracks
 
 <!--more-->
@@ -36,7 +37,7 @@ I noticed "You were away". I had a listen.
 
 It still stung, but not as much. [You can get it here][you-were-away].
 
-[you-were-away]: https://everythingdies.bandcamp.com/album/you-were-away
+[you-were-away]: https://straywool.bandcamp.com/album/you-were-away
 
 
 ### Credits
