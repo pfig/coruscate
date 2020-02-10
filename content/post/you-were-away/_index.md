@@ -2,7 +2,7 @@
 title: "You were away"
 date: 2020-02-08T17:10:21Z
 tags: ["releases", "music"]
-draft: true
+draft: false
 ---
 
 I haven't released any music since [October 2010][high-rise] (not counting
