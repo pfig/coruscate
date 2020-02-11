@@ -44,7 +44,7 @@ It still stung, but not as much. [You can get it here][you-were-away].
 
 Written, recorded, and mastered by Pedro Figueiredo.
 
-Tracks A1, A2, and B2 recorded during Sprint 2018; track B1 recorded in
+Tracks A1, A2, and B2 recorded during Spring 2018; track B1 recorded in
 Winter 2020.
 
 Cover photo by Pedro Figueiredo.
