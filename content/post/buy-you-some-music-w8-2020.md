@@ -35,7 +35,7 @@ the point, refreshingly.
 
 Anyway, without further ado, here is my list as of today:
 
-<iframe src="https://buymusic.club/embed/pedro-figueiredo-lofi-ambient" height="300" width="100%" frameborder="0"></iframe>
+<iframe src="https://buymusic.club/embed/pedro-figueiredo-lofi-ambient" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
 **Duelling Ants - Random Gestures**
 
