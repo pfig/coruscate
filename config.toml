@@ -35,16 +35,16 @@ disableAliases = true
     url = "/post/"
     weight = 1
   [[menu.nav]]
-    name = "Sketches"
-    url = "https://soundcloud.com/everythingdies"
-    weight = 2
-  [[menu.nav]]
     name = "Releases"
     url = "https://straywool.bandcamp.com"
-    weight = 3
+    weight = 2
   [[menu.nav]]
     name = "Playlist"
     url = "https://buymusic.club/list/pedro-figueiredo-lofi-ambient"
+    weight = 3
+  [[menu.nav]]
+    name = "Sketches"
+    url = "https://soundcloud.com/everythingdies"
     weight = 4
   [[menu.nav]]
     name = "About"
