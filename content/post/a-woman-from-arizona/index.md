@@ -13,7 +13,7 @@ command="Resize"
 options="700x" >}}
 
 
-This EP been haunting me for 1 year - I wanted to write some stories
+This EP has been haunting me for 1 year - I wanted to write some stories
 to go with the music. I didn't want to go near those memories, though.
 In the end, the music is more important.
 
