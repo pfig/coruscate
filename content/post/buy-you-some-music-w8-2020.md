@@ -35,20 +35,26 @@ the point, refreshingly.
 
 Anyway, without further ado, here is my list as of today:
 
-<iframe src="https://buymusic.club/embed/pedro-figueiredo-lofi-ambient" height="300" width="100%" frameborder="0"></iframe>
-
-**Duelling Ants - Random Gestures**
+**[Duelling Ants - Random Gestures][duelling-ants]**
 
   This is so far my favourite album of 2020 - it's beautiful, gentle, happy,
   and has been surprising me every time I play it (that is to say, every day
   since it was released).
 
-**a beautiful burning world - Ambient Piano Pieces Vol II**
+**[a beautiful burning world - Ambient Piano Pieces Vol II][bbw]**
 
   A mere 2 months after the first volume, this is more of the same, and there's
   nothing wrong with that. Subtle, _whispered_ piano pieces lovingly put to tape.
 
-**Amulets - AMULETS / drowse Split**
+**[Amulets - AMULETS / drowse Split][amulets-drowse]**
 
   Randall Taylor and Kyle Bates _just work_, so you get a cohesion which could
   easily fool you into thinking they have started a band. Maybe they should.
+
+[amulets-drowse]: https://amulets.bandcamp.com/album/amulets-drowse-split
+[bbw]: https://thisbeautifulburningworld.bandcamp.com/album/ambient-piano-pieces-vol-ii
+[duelling-ants]: https://duellingants.bandcamp.com/album/random-gestures
+
+_Edit_: It doesn't make sense to have the embedded list here, as that will get
+dynamically updated and  not match the mini-reviews. Added the otiginal links
+to these.
