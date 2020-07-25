@@ -56,5 +56,5 @@ Anyway, without further ado, here is my list as of today:
 [duelling-ants]: https://duellingants.bandcamp.com/album/random-gestures
 
 _Edit_: It doesn't make sense to have the embedded list here, as that will get
-dynamically updated and  not match the mini-reviews. Added the otiginal links
+dynamically updated and  not match the mini-reviews. Added the original links
 to these.
