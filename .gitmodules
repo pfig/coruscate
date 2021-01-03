@@ -10,6 +10,3 @@
 [submodule "themes/hugo-future-imperfect-slim"]
 	path = themes/hugo-future-imperfect-slim
 	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
-[submodule "themes/hugo-tanka"]
-	path = themes/hugo-tanka
-	url = https://github.com/nanxstats/hugo-tanka.git
