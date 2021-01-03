@@ -23,7 +23,7 @@ under a new project name, Stray wool).
 
 <!--more-->
 {{< gallery
-img="cover.png"
+img="cover-web.jpg"
 command="Resize"
 options="700x" >}}
 
