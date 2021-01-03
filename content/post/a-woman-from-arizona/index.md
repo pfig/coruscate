@@ -8,7 +8,7 @@ draft: false
 I once went out with a woman from Arizona.
 <!--more-->
 {{< gallery
-img="cover.png"
+img="cover.jpg"
 command="Resize"
 options="700x" >}}
 
