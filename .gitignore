@@ -4,3 +4,4 @@ public/
 resources/_gen/
 # Local Netlify folder
 .netlify
+.projectile
