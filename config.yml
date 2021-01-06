@@ -38,8 +38,8 @@ params:
 
   label:
     text: "Coruscate"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    # icon: /apple-touch-icon.png
+    # iconHeight: 60
 
   profileMode:
     enabled: false
