@@ -1,0 +1,142 @@
+baseURL: "https://coruscate.xyz"
+title: "C o r u s c a t e"
+theme: hugo-PaperMod
+paginate: 5
+
+languageCode: en-gb
+defaultContentLanguage: en
+
+enableRobotsTXT: true
+disableAliases: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+enableGitInfo: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "C o r u s c a t e"
+  description: "This description is out of date."
+  author: "Pedro Figueiredo"
+
+  images: "<link or path of image for opengraph, twitter-cards>"
+  cover:
+    linkFullImages: true
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  comments: false
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableSpecial1stPost: true
+
+  label:
+    text: "Coruscate"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  profileMode:
+    enabled: false
+    title: "Sometimes, maybe."
+    imageUrl: "/images/logo.svg" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 240 # custom size
+    imageHeight: 240 # custom size
+    buttons:
+      - name: Blog
+        url: post
+
+  homeInfoParams:
+    Title: "Sometimes, maybe."
+
+  # socialIcons:
+  #   - name: soundcloud
+  #     url: "https://soundcloud.com/everythingdies"
+  #   - name: instagram
+  #     url: "https://instagram.com/straywool"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 3
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: bandcamp
+      name: Releases
+      url: https://straywool.bandcamp.com
+      weight: 10
+    - identifier: buymusicclub
+      name: Playlist
+      url: https://buymusic.club/list/pedro-figueiredo-lofi-ambient
+      weight: 20
+    - identifier: soundcloud
+      name: Sketches
+      url: https://soundcloud.com/everythingdies
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about
+      weight: 40
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 50
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 60
+    - identifier: rss
+      name: RSS
+      url: /index.xml
+      weight: 99
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    simple: true
+  twitter:
+    enableDNT: true
+    simple: true
+  vimeo:
+    simple: true
+  youtube:
+    privacyEnhanced: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - REDIRECTS
+    - HEADERS
+    - JSON
+
+mediaTypes:
+  "text/netlify":
+    suffixes: [""]
+    delimiter: ""
+
+outputFormats:
+  REDIRECTS:
+    mediatype: "text/netlify"
+    baseName: _redirects
+    isPlainText: true
+    notAlternative: true
+  HEADERS:
+    mediatype: "text/netlify"
+    baseName: _headers
+    isPlainText: true
+    notAlternative: true

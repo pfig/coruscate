@@ -14,9 +14,9 @@ Music for sleeping, most of the time.
 
 From their blurb, Buy Music Club is
 
-{{% blockquote %}}
+{{< blockquote >}}
 A website for curating and sharing lists of independent music downloads available on Bandcamp.
-{{% /blockquote %}}
+{{< /blockquote >}}
 
 I think these are two excellent ideas: buying more music, and having human
 curated playlists. So I have set up my own little corner on the Buy Music Club
@@ -27,14 +27,14 @@ referral or affiliate links, I do not make any money out of it.
 ### Thank you
 
 * Made with [Hugo](https://gohugo.io/)
-* Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
+* Themed by [PaperMod](https://git.io/hugopapermod)
 * Deployed to [Netlify](https://www.netlify.com/)
 * FM algorithm logo by [Mamizou](https://en.wikipedia.org/wiki/User:Mamizou)
 
 
 ### Privacy
 
-{{% warning %}}
+{{< warning >}}
 This is a static website, and it does not collect any personally identifiable
 data on visitors.
 However, from time to time I may embed content from other sites which do,
@@ -45,4 +45,4 @@ them to track you (and if you click through to the site, you will of course
 be exposed to all of its tracking code).
 I have no control over this, and I do not have any access to the data
 they collect.
-{{% /warning %}}
+{{< /warning >}}
