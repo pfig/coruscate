@@ -6,7 +6,7 @@ author: "Pedro Figueiredo"
 tags: ["365"]
 categories: ["photography"]
 cover:
-  image: "/365/DSCF0206.jpg"
+  image: "/365/20210102.jpg"
   alt: "School sign outside sports ground"
   relative: false
   caption: "School's out"

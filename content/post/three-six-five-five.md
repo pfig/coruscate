@@ -2,11 +2,12 @@
 title: "Three Six Five Five"
 date: 2021-01-10T17:34:38Z
 author: "Pedro Figueiredo"
+description: "Jan 5"
 categories: ["photography"]
 tags: ["365"]
 draft: false
 cover:
-  image: "/365/DSCF0243.jpg"
+  image: "/365/20210105.jpg"
   alt: "Cat on a sofa"
   relative: false
   caption: "Lemmy"

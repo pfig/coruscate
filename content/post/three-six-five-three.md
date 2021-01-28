@@ -7,7 +7,7 @@ tags: ["365"]
 categories: ["photography"]
 draft: false
 cover:
-  image: "/365/DSCF0207.jpg"
+  image: "/365/20210103.jpg"
   alt: "Iron table and chairs in the garden"
   relative: false
   caption: "COVID-19 garden party"

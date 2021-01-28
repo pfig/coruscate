@@ -7,7 +7,7 @@ categories: ["photography"]
 tags: ["365"]
 draft: false
 cover:
-  image: "/365/DSCF0217.jpg"
+  image: "/365/20210104.jpg"
   alt: "Person looking through bakery window"
   relative: false
   caption: "Bread"

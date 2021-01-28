@@ -3,10 +3,11 @@ title: "Three Six Five Seven"
 date: 2021-01-12T22:02:26Z
 author: "Pedro Figueiredo"
 categories: ["photography"]
+description: "Jan 7"
 tags: ["365"]
 draft: false
 cover:
-  image: "/365/DSCF0248.jpg"
+  image: "/365/20210107.jpg"
   alt: "Two men at the bus stop"
   relative: false
   caption: "393"

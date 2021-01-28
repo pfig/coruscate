@@ -7,7 +7,7 @@ tags: ["365"]
 categories: ["photography"]
 draft: false
 cover:
-  image: "/365/DSCF0190.jpg"
+  image: "/365/20210101.jpg"
   alt: "London Kerning map section"
   relative: false
   caption: "London Kerning"
